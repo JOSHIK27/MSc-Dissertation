@@ -26,3 +26,6 @@
     Start executing the code
   </li>
 </ol>
+
+<h2>License Information</h2>
+
