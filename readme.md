@@ -65,3 +65,6 @@
 
 <h2>License Information</h2>
 
+**KDD-CUPP99**: [Link](https://github.com/Mamcose/NSL-KDD-Network-Intrusion-Detection/blob/master/LICENSE)
+**NSL-KDD**: [Link](https://github.com/Mamcose/NSL-KDD-Network-Intrusion-Detection/blob/master/LICENSE)
+
